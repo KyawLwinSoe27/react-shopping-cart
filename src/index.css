@@ -190,6 +190,8 @@ input{
   padding: 1rem;
   border: 0.1rem #c0c0c0 solid;
 }
+
+=======
 /* Product Details */
 .product-details{
   display: flex;
@@ -212,3 +214,4 @@ input{
   top: 2.5rem;
   z-index: 1000;
 }
+
